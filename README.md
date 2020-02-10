@@ -12,3 +12,5 @@ Run `npm install` in the root directory.
 Run `npm install -g truffle` to install [Truffle framework](http://truffleframework.com/docs/getting_started/installation)
 
 Run `truffle test` to run the unit tests.
+
+test
